@@ -1,0 +1,1 @@
+The "Movie Consumption Habit Segmentation" project applies unsupervised learning techniques such as K-Means and DBSCAN to group individuals based on their movie-watching habits. The objective is to analyze how different characteristics
